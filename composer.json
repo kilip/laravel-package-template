@@ -1,5 +1,5 @@
 {
-    "name": "kilip/laravel-package",
+    "name": "kilip/laravel-package-template",
     "description": "Provides more extensive features to Laravel Doctrine",
     "type": "library",
     "license": "MIT",
